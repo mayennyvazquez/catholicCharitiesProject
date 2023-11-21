@@ -1,0 +1,314 @@
+.StateHousing {
+    background-color: #b8084a;
+    width: 100%;
+    margin: 10px;
+    text-align: center;
+    height: auto;
+}
+
+.StateHousing>span {
+    color: white;
+    font-family: "Quicksand", sans-serif;
+    font-size: 22px;
+}
+
+.StateHousing>button {
+    display: inline-block;
+    background-color: #013146;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.button {
+    float: right;
+}
+
+.menu {
+    background-color: white;
+    width: 100%;
+    text-align: center;
+}
+
+.CCAB {
+    float: left
+}
+
+.menu>span {
+    font-size: 18px;
+    font-family: "Quicksand", sans-serif;
+    float: left;
+    text-align: center;
+    letter-spacing: 0.02em;
+    box-sizing: border-box;
+    font-weight: 700;
+    margin: 5px;
+    margin-left: 35px;
+    line-height: 80px;
+}
+
+.Donate_button {
+    height: 61px;
+    width: 190px;
+    background: #b8084a;
+    border-radius: 360px;
+    font-family: "Quicksand", sans-serif;
+    font-size: 19px;
+    font-weight: 700px;
+    Color: white;
+    box-sizing: border-box;
+    text-align: center;
+    display: inline-block;
+    line-height: 50px;
+}
+
+main {
+
+    margin: 0px;
+}
+
+section>h3 {
+    margin-left: 40px;
+}
+
+
+main>section {
+    width: 100%;
+    padding: 0px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0px;
+
+
+}
+
+.background {
+    width: 100%;
+    background-image: url("../img/Mom&Daugther.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h3 {
+    font-family: "Quicksand", sans-serif;
+    font-weight: 600px;
+    font-size: 66px;
+    line-height: 100px;
+    color: white;
+    margin: 5px;
+}
+
+.writing-container1 {
+    margin-top: 0px;
+    /* This was your problem */
+}
+
+.writing-container2>p {
+    font-size: 20px;
+    font-weight: 600;
+    max-width: 70%;
+    width: 100%;
+    display: block;
+    font-family: "Quicksand", sans-serif;
+    line-height: 25px;
+    color: white;
+    top: 200px;
+    left: 50px;
+    margin-left: 40px;
+
+}
+
+.writing-container2 {
+    margin-top: 10px;
+
+}
+
+section>p {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+section>.GiveNow {
+    height: 61px;
+    width: auto;
+    height: auto;
+    background: #ffffff;
+    border-radius: 360px;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 700px;
+    color: #b8084a;
+    box-sizing: border-box;
+    display: inline-block;
+    line-height: 23px;
+    margin-left: 40px px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 45px !important;
+    padding: 25px 50px !important;
+}
+
+.GetNews {
+    width: 100%;
+    height: 100%;
+    color: #ffffff;
+    text-align: center;
+    background: #0b6f97;
+    padding: 55px 0;
+    box-sizing: border-box;
+    clear: both;
+    display: inline-block;
+
+}
+
+.email {
+    float: left;
+    margin-left: 80px;
+    border: 2px red;
+}
+
+.GettheLatestNews {
+    float: left;
+    vertical-align: middle;
+    color: inherit;
+    padding: 15px 15px 10px;
+    margin: 10px 20px;
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: 500;
+}
+
+.email {
+    text-align: left;
+}
+
+.input-box {
+    float: left;
+    border: #b8084a 1px solid;
+    border-radius: 360px;
+    background-color: rgb(229, 229, 229);
+    width: 485px;
+    text-align: center;
+    line-height: 40px;
+    margin-left: 40px;
+}
+
+
+.Email-Input {
+    color: rgb(229, 229, 229);
+    font-family: "Quicksand", sans-serif;
+    font-size: 20px;
+    padding: 0px 40px;
+    border: transparent;
+    box-sizing: border-box;
+    height: 40px;
+    width: 200px;
+    background-color: transparent;
+}
+
+
+.button1 {
+    padding: 0px 40px;
+    border-radius: 360px;
+    background-color: white;
+    height: 65px;
+    float: right;
+    color: #b8084a;
+
+}
+
+footer {
+    width: 100%;
+    clear: both;
+    line-height: 30px;
+}
+
+footer>.end {
+    display: flex;
+    justify-content: space-between;
+    background: #1f222b;
+    border: #1f222b solid 1px;
+    padding-top: 115px;
+    padding-bottom: 115px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
+
+.fisrtBox {
+    width: 40%;
+    height: 377px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+
+.secondBox {
+    width: 20%;
+    height: 377px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+
+}
+
+.thirdBox {
+    width: 20%;
+    height: 377px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+
+.links>a {
+    display: block;
+    color: white;
+}
+
+.thirdBox {
+    width: 20%;
+    height: 377px;
+}
+
+
+.fisrtBox,
+.secondBox,
+.thirdBox {
+    font-family: "Quicksand", sans-serif;
+    display: inline-block;
+    color: #ffffff;
+
+}
+
+h4 {
+    font-family: "Quicksand", sans-serif;
+    font-weight: 600px;
+    font-size: 26px;
+    padding-bottom: 20px;
+    margin: 20px;
+}
+
+.socialmedia>a {
+    width: 29px;
+    height: 32px;
+    display: inline-block;
+    margin: 10px;
+    border: solid 2px white;
+}
+
+
+
+@media (max-width: 1199px) {
+
+   header.menu {
+        display: none;
+
+    }
+.CCAB {width: 218px;
+     height: 93px; 
+     float: left; }
+}
